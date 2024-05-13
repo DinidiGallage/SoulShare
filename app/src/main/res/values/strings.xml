@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tutorial04</string>
+    <string name="hntName">Enter Your Name</string>
+    <string name="hntEmail">Enter Email Address</string>
+    <string name="hntPhone">Enter Your Number</string>
+    <string name="hntPassword">Enter Password</string>
+    <string name="btnLogIn">Log In</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnGetStarted">Get Started</string>
+    <string name="btnProceed">Proceed</string>
+    <string name="btnEditProfile">Edit Profile</string>
+    <string name="btnBack">Back</string>
+    <string name="text_Login">Log In</string>
+    <string name="text_Signup">Sign Up</string>
+    <string name="text_welcomeMsg">Hello, Changemaker..</string>
+    <string name="text_welcomeToApp">Welcome to SoulShare!</string>
+    <string name="text_slogan">Connect, engage, and make an impact in your community.</string>
+
+</resources>
